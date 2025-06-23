@@ -6,6 +6,10 @@ Baseball, being one of the most popular and distinguished game in the US, has gr
 Statcast is a state-of-the-art tracking system that collects precise data on the location and movement of baseball players. This project uses Statcast data to wrangle, analyze and visualize the data of two major star athletes in Major League Baseball. Aaron Judge and Stanton Giancarlo who are similar in most ways, i.e. they both hit a lot of homeruns acing their eras. They are also different in so many ways. This is how they compare:
 
 The data used is from 2015-2017.
+
+
+
+
 ![Uploading judge_wide.jpg[judge (1).csv](https://github.com/user-attachments/files/20862573/judge.1.csv)…]()
 
-![image]
+
